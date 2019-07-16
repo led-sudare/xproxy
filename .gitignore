@@ -12,7 +12,7 @@
 *.out
 
 .vscode
-xpub_xsub_proxy
+xproxy
 
 # Dependency directories (remove the comment below to include it)
 # vendor/

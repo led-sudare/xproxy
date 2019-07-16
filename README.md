@@ -1,4 +1,4 @@
-# xpub_xsub_proxy
+# xproxy
 
 ZeroMQのXPUB-XSUB Proxy
 
@@ -9,10 +9,10 @@ ZeroMQのXPUB-XSUB Proxy
 
 # Install & Run
 
-1. 適当なディレクトリで、`https://github.com/led-sudare/xpub_xsub_proxy.git`
+1. 適当なディレクトリで、`https://github.com/led-sudare/xproxy.git`
 2. `./dockerbuild.sh`
 
 # Configuration
 
 ## goのソースコードを変更の反映したい場合
-1. xpub_xsub_proxyのDockerコンテナを再起動する
+1. xproxyのDockerコンテナを再起動する

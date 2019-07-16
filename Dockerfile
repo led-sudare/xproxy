@@ -12,7 +12,6 @@ RUN apk update && \
 
 ENV GO111MODULE=on
 EXPOSE 5510 5511
-ARG cname
-WORKDIR /go/src/${cname}
+WORKDIR /work/
 
 ENTRYPOINT ["./docker-entrypoint.sh"]

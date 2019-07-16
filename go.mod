@@ -1,4 +1,4 @@
-module xpub_xsub_proxy
+module xproxy
 
 go 1.12
 

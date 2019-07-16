@@ -2,7 +2,7 @@ package main
 
 import (
 	"time"
-	"xpub_xsub_proxy/lib/util"
+	"xproxy/lib/util"
 
 	log "github.com/cihub/seelog"
 	zmq "github.com/zeromq/goczmq"
